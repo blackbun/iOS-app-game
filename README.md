@@ -1,3 +1,4 @@
 # JumpyPenguin
 
-Swift game app made to learn how to make a 'flappy bird' like game
+- Swift character game app
+- Tap to play!
