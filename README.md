@@ -3,10 +3,11 @@
 - programmed as a side project to learn iOS in 2016
 - released to Apple App Store
 
+----- ----- ----- -----
 
-- Tap to play!
-- Fun, character and adventure app
-- Records high score
+-- Tap to play!
+-- Fun, character and adventure app
+-- Records high score
 
 Tech Stack:
 - Swift
