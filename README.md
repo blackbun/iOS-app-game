@@ -1,4 +1,4 @@
-# iOS App Game - Jumpy Penguin
+# iOS Tap Game - Jumpy Penguin
 
 - programmed as a side project to learn iOS in 2016
 - released to Apple App Store
