@@ -5,9 +5,9 @@
 
 ----- ----- ----- -----
 
--- Tap to play!
--- Fun, character and adventure app
--- Records high score
+Tap to play!   |   Fun, character and adventure app   |   Records high score
+
+----- ----- ----- -----
 
 Tech Stack:
 - Swift
